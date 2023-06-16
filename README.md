@@ -2,11 +2,11 @@
 Anesthesia and critical care standard terminologies
 
 
-Hopsital Locations:
+Hopsital Locations:  
 https://www.cdc.gov/nhsn/cdaportal/terminology/codesystem/hsloc.html
 
-Physicology:
+Physicology:  
 
-Pharmacology:
+Pharmacology:  
 
-Laboratory:
+Laboratory:  
